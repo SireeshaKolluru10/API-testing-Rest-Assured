@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.QueryAndPathParameters">
+      <class name="basics.Headers">
         <methods>
-          <include name="usingQueryAndPathParameters"/>
+          <include name="getHeaders"/>
         </methods>
-      </class> <!-- basics.QueryAndPathParameters -->
+      </class> <!-- basics.Headers -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
