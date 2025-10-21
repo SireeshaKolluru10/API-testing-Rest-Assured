@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-19T12:40:46 IST" name="Default suite" finished-at="2025-10-19T12:40:50 IST" duration-ms="4450">
+  <suite started-at="2025-10-21T09:56:48 IST" name="Default suite" finished-at="2025-10-21T09:56:51 IST" duration-ms="2284">
     <groups>
     </groups>
-    <test started-at="2025-10-19T12:40:46 IST" name="Default test" finished-at="2025-10-19T12:40:50 IST" duration-ms="4450">
-      <class name="basics.Logging">
-        <test-method signature="getLogs()[pri:0, instance:basics.Logging@245b4bdc]" started-at="2025-10-19T12:40:46 IST" name="getLogs" finished-at="2025-10-19T12:40:50 IST" duration-ms="4348" status="PASS">
+    <test started-at="2025-10-21T09:56:48 IST" name="Default test" finished-at="2025-10-21T09:56:51 IST" duration-ms="2284">
+      <class name="basics.ParseJsonBody">
+        <test-method signature="parsingJsonBody()[pri:0, instance:basics.ParseJsonBody@5c5eefef]" started-at="2025-10-21T09:56:49 IST" name="parsingJsonBody" finished-at="2025-10-21T09:56:51 IST" duration-ms="2222" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getLogs -->
-      </class> <!-- basics.Logging -->
+        </test-method> <!-- parsingJsonBody -->
+      </class> <!-- basics.ParseJsonBody -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
